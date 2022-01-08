@@ -41,7 +41,7 @@
   
 [![Dizz's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Dizzboii22&theme=tokyonight)](https://git.io/Dizzboii22)
 
-| ![Amandeep's github stats](https://github-readme-stats.vercel.app/api?username=AVoid1&show_icons=true&theme=tokyonight) | ![Amandeep's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AVoid1&theme=tokyonight) |
+| ![Amandeep's github stats](https://github-readme-stats.vercel.app/api?username=Dizzboii22_icons=true&theme=tokyonight) | ![Dizz's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dizzboii22&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AVoid1&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=AVoid1&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
