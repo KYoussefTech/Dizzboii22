@@ -16,7 +16,14 @@ As a creative designer and developer, I am passionate about using my skills to h
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
----
+#My Coding Journey
+
+<details>
+ <summary><h3>👨‍💻 Karim's Coding Journey</h3></summary>
+
+As a young software developer, my coding journey has been filled with ups and downs, but I have always been driven by my passion for technology and my desire to create solutions that make a difference. I remember the first time I wrote my own program, a simple calculator app, and seeing it come to life on my screen. It was a moment of pure excitement and accomplishment that sparked a fire within me. From then on, I was hooked. I spent countless hours learning new languages and frameworks, building projects, and seeking out opportunities to grow and improve my skills. And through hard work and determination, I was able to land my first software development job, where I have been able to learn from some of the best in the industry and make a real impact on the projects I work on. Looking back on my journey, I am grateful for every challenge and obstacle I faced, as they have helped shape me into the software developer I am today. And I am excited to see where my love of coding will take me in the future.
+ 
+ ---
 [![](https://visitcount.itsvg.in/api?id=Dizzboii22&icon=0&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
