@@ -16,7 +16,7 @@ As a creative designer and developer, I am passionate about using my skills to h
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-#My Coding Journey
+# My Coding Journey
 
 <details>
  <summary><h3>👨‍💻 Karim's Coding Journey</h3></summary>
