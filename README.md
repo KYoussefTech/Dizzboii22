@@ -1,6 +1,6 @@
 # Karim Youssef
 
-**`Digital Craftsman (Developer/Creative Designer/Freelancer)`**
+**`Karim Youssef (Developer/Creative Designer/Freelancer)`**
 
 # 💫 About Me:
 As a creative designer and developer, I am passionate about using my skills to help small businesses and marginalized communities bring their passions to life. I specialize in both design and development services for web applications and websites, and I am dedicated to working closely with my clients to understand their needs and create solutions that meet their specific goals. I believe that everyone should have the opportunity to have their voice heard and their ideas brought to life, and I am committed to using my skills to make that happen. Whether I am helping a small business create a website to showcase their products and services, or working with a community organization to develop a web application to support their efforts, I always strive to deliver high-quality, user-friendly solutions that help my clients succeed.
