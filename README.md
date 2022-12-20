@@ -1,8 +1,8 @@
-# 🏄‍♂️ Forrest Knight
+# Karim Youssef
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Digital Craftsman (Developer/Creative Designer)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+As a creative designer and developer, I am passionate about using my skills to help small businesses and marginalized communities bring their passions to life. I specialize in both design and development services for web applications and websites, and I am dedicated to working closely with my clients to understand their needs and create solutions that meet their specific goals. I believe that everyone should have the opportunity to have their voice heard and their ideas brought to life, and I am committed to using my skills to make that happen. Whether I am helping a small business create a website to showcase their products and services, or working with a community organization to develop a web application to support their efforts, I always strive to deliver high-quality, user-friendly solutions that help my clients succeed.
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
