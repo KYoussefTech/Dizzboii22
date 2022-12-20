@@ -17,6 +17,6 @@ As a creative designer and developer, I am passionate about using my skills to h
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Dizzboii22&icon=0&color=8)](223453334)
+[![](https://visitcount.itsvg.in/api?id=Dizzboii22&icon=0&color=8)]
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
