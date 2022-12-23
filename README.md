@@ -59,9 +59,10 @@ As a young software developer, my coding journey has been filled with ups and do
   </div>
 </div>
  
- <style>
+<style>
   @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500&display=swap");
-* {
+
+  * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
